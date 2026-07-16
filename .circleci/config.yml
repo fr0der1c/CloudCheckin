@@ -71,5 +71,3 @@ workflows:
           context: checkincontext
       - onepoint3acres:
           context: checkincontext
-      - deepflood:
-          context: checkincontext
